@@ -1,11 +1,14 @@
-<div align="center">
+# SAM Demo
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A starter repository for the SAM demo project.
 
-  <h1>Built with AI Studio</h2>
+## Project status
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+This repository currently contains its initial project README. Application source code, setup instructions, screenshots, and feature documentation can be added as the project takes shape.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Next steps
 
-</div>
+- Add the application source code.
+- Document the purpose and main features.
+- Add verified installation and run instructions.
+- Include screenshots or a demo link when available.
